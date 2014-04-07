@@ -10,3 +10,4 @@ elseif (${CMAKE_SYSTEM_NAME} MATCHES "CYGWIN")
     message(STATUS "Cygwin")
 endif()
 
+
